@@ -1,1 +1,1 @@
-# Deikstra
+# Dijkstra's algorithm
